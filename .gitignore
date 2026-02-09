@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+.ipynb_checkpoints/
+.vscode/
+
+# Virtual environment
+virt/
+virtualenv/
+virtual-env/
+venv/
+env/
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
